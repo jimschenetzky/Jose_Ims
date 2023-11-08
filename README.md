@@ -26,4 +26,6 @@
          * Aspectos Positivos:
          * Aspectos Negativos:
 * **¿Qué existe que puede inspirar la propuesta?**
+![Sin título](https://github.com/jimschenetzky/Jose_Ims_makeup/assets/87721128/550fb084-0de8-41f9-b4e8-80cc4c9c9fb6)
+
   
