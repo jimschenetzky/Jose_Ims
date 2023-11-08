@@ -14,8 +14,8 @@
          * Aspectos Positivos: Una composición limpia y ordenada
          * Aspectos Negativos: Los elementos más atractivos de la página (en términos de programación), no estan al principio de la página, sino que al hacer scroll van apareciendo
    *  3 [link](https://analogueagency.com/):
-         * Aspectos Positivos:
-         * Aspectos Negativos:
+         * Aspectos Positivos: Animación muy atractiva al ingresar al sitio, el formato es sensillo pero elegante
+         * Aspectos Negativos: Tiene muchas animaciones que pueden hacer mas lento el desarrollo y carga de la página
    *  4 [link](https://tuxkarma.co/en/):
          * Aspectos Positivos:
          * Aspectos Negativos:
