@@ -24,7 +24,7 @@
          * Aspectos Negativos: Más enfocado en texto, mientras que un portafolio requiere más espacio de imagenes
    *  6 [link](https://demo.cocobasic.com/fabius-wp/demo-2/):
          * Aspectos Positivos: Animaciones sensillas pero llamativas, contenido interactivo
-         * Aspectos Negativos: Demasiado contenido y espacios para información poco relevante
+         * Aspectos Negativos: Demasiado contenido y espacios para información poco relevante, los espacios de diferentes proyectos solo abren listados que no permiten interacción, ni muestran ejemplos ni resultados
 * **¿Qué existe que puede inspirar la propuesta?**
 ![Sin título](https://github.com/jimschenetzky/Jose_Ims_makeup/assets/87721128/550fb084-0de8-41f9-b4e8-80cc4c9c9fb6)
 
