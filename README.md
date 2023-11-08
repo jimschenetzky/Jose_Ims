@@ -4,4 +4,4 @@
 * **¿Para quiénes es esta propuesta?**
   | Poco probable | Más Probable | Poco Probable |
   | ------------- | ------------ | ------------- |
-  |![Image alt text](/path/to/img.jpg)
+  |![Image alt text](/path/to/img.jpg) | ![Image alt text](/path/to/img.jpg) | ![Image alt text](/path/to/img.jpg) |
