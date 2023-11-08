@@ -8,8 +8,8 @@
 * **¿Qué existe que es similar a esta propuesta?**
   **Página**
    *  1 [link](https://www.skyehighinteractive.com/):
-         * Aspectos Positivos:
-         * Aspectos Negativos:
+         * Aspectos Positivos: Expone la imagen de marca y la reitera
+         * Aspectos Negativos: Hay muchas animaciones que no aportan a la lectura de la página
    *  2 [link](https://dashdigital.studio/):
          * Aspectos Positivos:
          * Aspectos Negativos:
