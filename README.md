@@ -1,6 +1,6 @@
 # Jose_Ims_makeup
 * **¿Para qué es esta propuesta?**
-  * Mostrar habilidades, resultados anteriores y productos disponibles para el servicio, a potenciales clientes.
+  * Mostrar habilidades como maquilladora, resultados anteriores y productos disponibles para el servicio, a potenciales clientes, además de diferentes estilos de maquillaje que manejo y tipos de servicios que puedo ofrecer.
 * **¿Para quiénes es esta propuesta?**
   | Poco probable | Más Probable | Poco Probable |
   | ------------- | ------------ | ------------- |
