@@ -11,8 +11,8 @@
          * Aspectos Positivos: Expone la imagen de marca y la reitera
          * Aspectos Negativos: Hay muchas animaciones que no aportan a la lectura de la página
    *  2 [link](https://dashdigital.studio/):
-         * Aspectos Positivos:
-         * Aspectos Negativos:
+         * Aspectos Positivos: Una composición limpia y ordenada
+         * Aspectos Negativos: Los elementos más atractivos de la página (en términos de programación), no estan al principio de la página, sino que al hacer scroll van apareciendo
    *  3 [link](https://analogueagency.com/):
          * Aspectos Positivos:
          * Aspectos Negativos:
