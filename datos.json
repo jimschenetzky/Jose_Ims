@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Noche Formal A",
+        "fotos": ["https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_a_2.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_a_1.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_a_3.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_a_4.jpg?raw=true"],
+        "soporte": "Servicio Maquillaje Formal",
+        "abstract": "Maquillaje elegante y fuerte para un matrimonio o fiesta de noche",
+        "texto": "Durante la sesión de maquillaje pensaremos en el entorno, colores que utilizarás, gustos y preferencias para el maquillaje, si no se te ocurre nada, te daré ejemplos que podrían quedar bien contigo y tu outfit."
+    },
+    {
+        "nombre": "Noche Formal B",
+        "fotos": ["https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_b_1.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_b_2.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/noche_f_b_3.jpg?raw=true"],
+         "soporte": "Servicio Maquillaje Formal",
+        "abstract": "Maquillaje elegante y fuerte para un matrimonio o fiesta de noche",
+        "texto": "Durante la sesión de maquillaje pensaremos en el entorno, colores que utilizarás, gustos y preferencias para el maquillaje, si no se te ocurre nada, te daré ejemplos que podrían quedar bien contigo y tu outfit."
+    },
+    {
+        "nombre": "Noche Formal C",
+        "fotos": ["https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_c_1.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_c_2.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_c_3.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Noche_f_c_4.jpg?raw=true"],
+         "soporte": "Servicio Maquillaje Formal",
+        "abstract": "Maquillaje elegante y fuerte para un matrimonio o fiesta de noche",
+        "texto": "Durante la sesión de maquillaje pensaremos en el entorno, colores que utilizarás, gustos y preferencias para el maquillaje, si no se te ocurre nada, te daré ejemplos que podrían quedar bien contigo y tu outfit."
+    },
+    {
+        "nombre": "Salida Noche",
+        "fotos": ["https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Salida1.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Salida2.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/salida3.jpg?raw=true"],
+        "soporte": "Servicio Maquillaje",
+        "abstract": "Maquillaje fuerte o sutil según tus gustos, para una salida de noche",
+        "texto": "Según lo que tengas planeado te daré recomendaciones de que podría potenciar tu look."
+    },
+    {
+        "nombre": "Natural",
+        "fotos": ["https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Natural_1.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/Natural_2.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/natural_3.jpg?raw=true", "https://github.com/jimschenetzky/Jose_Ims/blob/main/joseims.cl%20fotos/natural_4.jpg?raw=true"],
+        "soporte": "Servicio Maquillaje",
+        "abstract": "Maquillaje natural y complementario a ti",
+        "texto": "Este estilo de maquillaje es ideal para fiestas o eventos de día, ya que al interactuar con la luz natural la piel tiene un aspecto muy natural potenciando tus rasgos naturales."
+    }
+]
