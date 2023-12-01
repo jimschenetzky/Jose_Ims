@@ -64,7 +64,9 @@
                             <span class="section-heading-lower">MUA</span>
                         </h2>
                         <p class="mb-3">Servicios de maquillaje personalizado a tus necesidades y gustos.</p>
-                        <div class="intro-button mx-auto"><a class="btn btn-primary btn-xl" href="#!">Agenda hoy!</a></div>
+                        <div id="copyButton" class="intro-button mx-auto">
+    <a id="copyLink" class="btn btn-primary btn-xl" href="store.html">Agenda hoy!</a>
+</div>
                     </div>
                 </div>
             </div>
@@ -90,6 +92,16 @@
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
-        <script src="scripts.js"></script>
+        <script src="js/scripts.js"></script>
+        <script>
+    document.getElementById('copyButton').addEventListener('click', function(event) {
+        // Prevent the default behavior of the link
+        event.preventDefault();
+
+        // Navigate to store.html
+        window.location.href = 'store.html';
+    });
+</script>
+
     </body>
 </html>

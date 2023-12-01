@@ -10938,6 +10938,10 @@ p {
   }
 }
 
+.perfil {
+  width: 25%;
+}
+
 .cta {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -11033,3 +11037,24 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
+
+#carrusel-formal {
+  width: 35%;
+  margin-bottom: 16px;
+}
+
+#carrusel-editorial {
+  width: 35%;
+  margin-bottom: 16px;
+}
+
+#carrusel-casual {
+  width: 35%;
+  margin-bottom: 16px;
+}
+#carrusel-halloween {
+  width: 35%;
+  margin-bottom: 16px;
+}
+
